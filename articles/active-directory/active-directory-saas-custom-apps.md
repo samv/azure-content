@@ -34,7 +34,7 @@ To configure an application, sign into the Azure management portal using your Az
 
 ![][1]
 
-In the app gallery, you can add a custom app using the **Custom** category on the left, or by selecting the **Add an unlisted application** link that is shown in the search results if your desired app wasn't found. After entering a Name for your application, you can configure the single sign-on options and behavior. 
+If the application you want is not shown, then you cannot add it.  Sorry about that.  Using the **Custom** category on the left will add whichever app you clicked on or appeared at the top of the search results you saw before clicking that category.  Selecting the **Add an unlisted application** link that is shown in the search results will take you back to this page.
 
 **Quick tip**:  As a best practice, use the search function to check to see if the application already exists in the application gallery. If the app is found and its description mentions "single sign on", then the application is already supported for federated single sign-on. 
 
